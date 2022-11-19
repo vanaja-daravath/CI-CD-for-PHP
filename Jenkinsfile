@@ -7,7 +7,7 @@ pipeline {
     agent any
       
         tools {
-              jdk "Java-1.8"
+              Apache "php:7.2"
                }
                
        stages {
